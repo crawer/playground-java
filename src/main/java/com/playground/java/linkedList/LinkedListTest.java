@@ -24,7 +24,7 @@ public class LinkedListTest {
             System.out.println(name);
         }
 
-        //great for add and remove a new object.
+        //great for add and remove an object.
         //not good enough for iterator.
 
     }

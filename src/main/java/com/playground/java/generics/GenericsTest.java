@@ -1,4 +1,4 @@
-package com.playground.java.generics.test;
+package com.playground.java.generics;
 
 import java.util.ArrayList;
 import java.util.List;
