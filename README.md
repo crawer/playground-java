@@ -14,15 +14,6 @@ this repository is used to testing new features with Spring Boot 2.7.5 e Java 11
 this repository is used to testing new features with Spring Boot 2.7.5 e Java 11
 
 
-## Deploy
-
-Para fazer o deploy desse projeto rode
-
-```bash
-    ./mvnw spring-boot:run
-```
-
-
 ## 🚀 About me
 Senior Software Engineer who has over 6 years of experience in software development.
 
