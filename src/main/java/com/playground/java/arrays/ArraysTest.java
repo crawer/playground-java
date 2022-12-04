@@ -1,4 +1,4 @@
-package com.playground.java.Arrays;
+package com.playground.java.arrays;
 
 import java.util.Arrays;
 

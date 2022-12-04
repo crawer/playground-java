@@ -1,4 +1,4 @@
-package com.playground.java.linkedList;
+package com.playground.java.arrays.linkedList;
 
 import java.util.LinkedList;
 
